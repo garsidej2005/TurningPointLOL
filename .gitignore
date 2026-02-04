@@ -1,0 +1,41 @@
+# Environment variables (contains API keys!)
+.env
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE/Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Google Sheets
+JSONs/turningpointlol-485813-8d21cf2ec3aa.json
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Data files (if you don't want to commit large data)
+*.csv
+*.xlsx
+*.db
